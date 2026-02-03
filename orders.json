@@ -4,7 +4,7 @@
     "statusClass": "pending",
     "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Louis Riebel, Kapellenstraße 73, 55294 Bodenheim, Deutschland",
-    "price": "6.300,00 € - Zahlung nicht vollständig",
+    "price": "6.300,00 €",
     "description": "Hersteller: Suzuki<br>Typ: RGV 250<br>Fahrgestelnummer: VJ22A11809<br>Erstzulassung: 05/1992<br>KM laut Vorbesitzer: 13.055 km<br>Leistung: 45 kW (61 PS)<br>Hubraum: 249 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
     "address": "Louis Riebel<br>Kapellenstraße 73<br>55294 Bodenheim<br>Deutschland<br>Telefon: +49 173 7826414",
     "documents": [
@@ -26,11 +26,11 @@
       }
     ],
     "orderDate": "21.01.2026",
-    "deliveryDate": "30.01.2026, 15:30 Uhr",
+    "deliveryDate": "04.02.2026, 16:00 Uhr",
     "pickup": {
-      "street": "Im Weiherfeld 15",
-      "postal_code": "65462",
-      "city": "Ginsheim-Gustavsburg",
+      "street": "Spiekerstraße 7",
+      "postal_code": "58135",
+      "city": "Hagen",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
