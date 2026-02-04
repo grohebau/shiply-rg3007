@@ -26,11 +26,11 @@
       }
     ],
     "orderDate": "30.01.2026",
-    "deliveryDate": "04.02.2026, 16:00 Uhr",
+    "deliveryDate": "Zustellung verzögert: 04.–06. Feb. 2026",
     "pickup": {
-      "street": "Spiekerstraße 7",
-      "postal_code": "58135",
-      "city": "Hagen",
+      "street": "Bahnhofsplatz 3",
+      "postal_code": "55294",
+      "city": "Bodenheim",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
